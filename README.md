@@ -17,3 +17,9 @@ imprimir. Con constructor que instancia que una variable global.
 
 Cree la clase `Metodo Burbuja Avanzado` que implementa metodo de 
 ordenamiento ascendente y descendente, a partir del último número. Uso de break para no hacer intercambios innecesarios.
+
+## Práctica 1.3 Metodo Seleccion Sort
+### Fecha: 2026-04-22
+### Descripción:
+
+Cree la clase `Metodo Seleccion Sort`, donde hay un solo intercambio y ayuda a la optimización del código.

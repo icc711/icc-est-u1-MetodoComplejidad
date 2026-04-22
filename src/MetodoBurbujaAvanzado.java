@@ -45,12 +45,12 @@ public class MetodoBurbujaAvanzado {
                 }            
             }
         }
-        System.out.println("Comparaciones" + contComparaciones);
-        System.out.println("Cambios" + contCambios); 
+        System.out.println(" Comparaciones: " + contComparaciones);
+        System.out.println(" Cambios:" + contCambios); 
     }
     public void printArreglo(){
         for (int num : arreglo){
-            System.out.println( num + ",");
+            System.out.print( num + ",");
         }
     }
 }
